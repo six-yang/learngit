@@ -6,3 +6,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 v3
 Git is free software distributed under the GPL.
+Creating a new branch is quick.
